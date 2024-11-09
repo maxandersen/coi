@@ -2,7 +2,7 @@
 //JAVA 17+
 //DEPS io.quarkus.platform:quarkus-bom:3.16.1@pom
 //DEPS io.quarkus:quarkus-picocli
-//DEPS io.quarkiverse.langchain4j:quarkus-langchain4j-ollama:0.21.0.CR4
+//DEPS io.quarkiverse.langchain4j:quarkus-langchain4j-ollama:0.21.0
 
 //Q:CONFIG quarkus.banner.enabled=false
 ////Q:CONFIG quarkus.log.level=WARN
